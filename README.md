@@ -20,7 +20,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a br
 - [👤 Other Social Media](#-other-social-media)
 - [📁 Directories](#-directories)
 - [👥 Communities](#-communities)
-- [🖋️ Writing Platforms](#-writing-platforms)
+- [🖋️ Writing Platforms](#%EF%B8%8F-writing-platforms)
 - [🧑‍💼 Job Boards](#-job-boards)
 - [📱 App Store](#-app-store)
 - [🗂 Miscellaneous](#-miscellaneous)
