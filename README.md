@@ -41,30 +41,30 @@ Navigating **Awesome SEO Backlinks** is straightforward. The repository is organ
 
 Foundational backlinks are the bedrock of your website's online presence, signaling to search engines like Google that your business is active and legitimate. Despite being nofollow, these links are crucial in laying the groundwork for your SEO strategy. 
 
-- Google Business Profile
+- **Google Business Profile**
   ![](https://img.shields.io/badge/Level-Easy-green)
   ![](https://img.shields.io/badge/Free-blue)
   - Essential for local SEO, a Google Business Profile enhances your visibility on Google Maps and search results, with the added perk of $400 ad credits.
   - Note: You need to get verified before the profile is visible.
   - Create a Profile [here](https://business.google.com/create).
-- Facebook ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
+- **Facebook** ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
   - A Facebook Page provides a public face for your business, distinct from personal profiles, ensuring visibility to all users, including those not logged in.
   - Example: [PromptSora](https://www.facebook.com/profile.php?id=61556437962694).
   - Create a page [here](https://www.facebook.com/pages/creation).
-- Instagram ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
+- **Instagram** ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
   - Start with a new account and convert it to a business profile to leverage Instagram as a marketing channel. 
   - Note: Website links must be set via mobile.
   - Get started with a business account [here](https://business.instagram.com/getting-started).
-- X ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
+- **X** ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
   - A dedicated Twitter account for your product/startup is invaluable for engagement and can be linked in many directories without impacting post visibility.
   - You can embed a link in your profile.
   - Example: [WebDesignInspiration](https://twitter.com/wdidotcom).
   - Create an account [here](https://twitter.com/).
-- LinkedIn ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
+- **LinkedIn** ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
   - Creating a LinkedIn company page is a quick process, offering a significant channel for exposure.
   - Example: [PromptSora](https://www.linkedin.com/company/102604886).
   - Create a company [here](https://www.linkedin.com/company/setup/new/).
-- Pinterest ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
+- **Pinterest** ![](https://img.shields.io/badge/Level-Easy-green) ![](https://img.shields.io/badge/Free-blue)
   - Its often used as a search engine for visual resources, so its important to optimize your profile. It can drive a lot traffic to your site.
   - Create a business account [here](https://www.pinterest.ch/business/create/).
 

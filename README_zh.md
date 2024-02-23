@@ -46,34 +46,34 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
 
 基础外链是SEO策略的基石，对于提升网站排名和流量至关重要。大多数基础外链是 nofollow 的，这意味着它们不会直接传递 PageRank 值，但仍然会对网站排名产生积极影响。
 
-- Google Business Profile
+- **Google Business Profile**
   ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - 对本地SEO来说必不可少，Google Business Profile能提升你在谷歌地图和搜索结果中的可见性，还有额外的400美元广告费用奖励。
   - 注意：需要验证后才能显示您的商家资料。
   - 在[这里]((https://business.google.com/create))创建商家中心。
-- Facebook   ![](https://img.shields.io/badge/Level-简单-green)
+- **Facebook**   ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - Facebook Pages 为您的业务展示了一个公开的形象，与个人资料截然不同，它确保所有用户都能看到，包括那些未登录的用户。
   - 示例: [PromptSora](https://www.facebook.com/profile.php?id=61556437962694).
   - 在这里[创建]((https://www.facebook.com/pages/creation))页面。
-- Instagram   ![](https://img.shields.io/badge/Level-简单-green)
+- **Instagram**   ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - 从新账户开始，并转换为商业账号，利用Instagram作为营销渠道。
   - 注意：网站链接必须通过手机设置。
   - 在[这里](https://business.instagram.com/getting-started)开始设置商业账号。
-- X (推特)    ![](https://img.shields.io/badge/Level-简单-green)
+- **X (推特)**    ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - 为你的产品/创业项目设置一个专用的Twitter账户对于提高参与度非常有价值，可以在许多目录中链接，而不影响帖子的可见性。
   - 你可以在你的资料中嵌入链接。
   - 示例: [WebDesignInspiration](https://twitter.com/wdidotcom).
   - 在[这里]((https://twitter.com/))创建账户
-- 领英 (LinkedIn)    ![](https://img.shields.io/badge/Level-简单-green)
+- **LinkedIn (领英)**  ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - 创建一个领英公司页面是一个快速过程，为曝光提供了重要渠道。
   - 示例: [PromptSora](https://www.linkedin.com/company/102604886).
   - 在[这里](https://www.linkedin.com/company/setup/new/)创建公司页面。
-- Pinterest   ![](https://img.shields.io/badge/Level-简单-green)
+- **Pinterest**   ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - 它经常被用作视觉资源的搜索引擎，因此优化你的个人资料很重要。它可以为你的网站带来大量流量。
   - 在[这里](https://www.pinterest.ch/business/create/)创建商业账号。
