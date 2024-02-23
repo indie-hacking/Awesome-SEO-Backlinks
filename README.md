@@ -15,7 +15,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a br
 
 ## 📜 Content
 - [👋 Introduction](#-introduction)
-  - [❓ How to Use This Repository?](#-how-to-use-this-repo)
+  - [❓ How to Use This Repository](#-how-to-use-this-repository)
 - [🏢 Foundational Backlinks](#-foundational-backlinks)
 - [👤 Other Social Media](#-other-social-media)
 - [📁 Directories](#-directories)
@@ -29,7 +29,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a br
 
 In the dynamic world of SEO, backlinks stand as a cornerstone of a successful strategy. They not only help in improving a website's search engine rankings but also in building online authority. However, not all backlinks are created equal, and finding the right ones can be a daunting task. 
 
-### ❓ How to Use This Repository?
+### ❓ How to Use This Repository
 
 Navigating **Awesome SEO Backlinks** is straightforward. The repository is organized into sections based on backlink categories, strength, and acquisition difficulty. Here's how to make the most out of it:
 
