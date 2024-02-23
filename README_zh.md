@@ -51,7 +51,7 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
   ![](https://img.shields.io/badge/免费-blue)
   - 对本地SEO来说必不可少，Google Business Profile能提升你在谷歌地图和搜索结果中的可见性，还有额外的400美元广告费用奖励。
   - 注意：需要验证后才能显示您的商家资料。
-  - 在[这里]((https://business.google.com/create))创建商家中心。
+  - 在[这里](https://business.google.com/create)创建商家中心。
 - **Facebook**   ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/免费-blue)
   - Facebook Pages 为您的业务展示了一个公开的形象，与个人资料截然不同，它确保所有用户都能看到，包括那些未登录的用户。
