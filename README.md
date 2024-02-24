@@ -72,8 +72,90 @@ Foundational backlinks are the bedrock of your website's online presence, signal
 Coming Soon
 
 ## 📁 Directories
-Coming Soon
 
+- [**Crunchbase**](https://www.crunchbase.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  - Platform for finding business information about private and public companies, including funding and investment information, founding members, and industry trends.
+  - You can set up an organization, and embed your website links into it.
+  - Example: [PromptSora](https://www.crunchbase.com/organization/promptsora).
+  - Create a Profile [here](https://www.crunchbase.com/add-new).
+- [**Free Stuff Dev**](https://freestuff.dev/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-24-green)
+  -  Collective lists of free services for developer to use.
+  - If your product offers a free tier, list it here.
+  - Add your product [here](https://freestuff.dev/submit).
+- [**Free For Dev**](https://free-for.dev/#/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-23-green)
+  - List of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
+  - If your product offers a free tier, list it here.
+  - Submit your product with a pull request [here](https://github.com/ripienaar/free-for-dev/pulls).
+- [**Open Source Alternatives To**](https://www.opensourcealternative.to/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-31-green)
+  - If your product is open source, you can list your product here.
+  - Submit [here](https://www.opensourcealternative.to/add-project).
+- [**Starter Story**](https://www.starterstory.com/)
+  ![](https://img.shields.io/badge/Level-Hard-red)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-51-green)
+  - Newsletter on how people are starting successful businesses
+  - Write a startup story for them. If they select you, you will get a backlink and your story will be sent to all subscribers.
+  - Share your story [here](https://www.starterstory.com/share).
+- [**There's An AI For That**](https://theresanaiforthat.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Paid-blue)
+  ![](https://img.shields.io/badge/AS-50-green)
+  - AI directory with a Do-Follow backlnk.
+  - 4.8M traffic (Feb 2024, SimilarWeb).
+  - Cost $347 to submit.
+  - Submit [here](https://theresanaiforthat.com/get-featured/#opt_submit).
+- [**LibHunt**](https://www.libhunt.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-39-green)
+  - Trending open-source projects and their alternatives.
+  - You can submit your tool if its open source.
+  - 740K traffic (Feb 2024, SimilarWeb).
+  - Submit [here](https://www.libhunt.com/repo/submit).
+- [**Futurepedia**](https://www.futurepedia.io/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Paid-blue)
+  ![](https://img.shields.io/badge/AS-42-green)
+  - AI directory with a Do-Follow backlnk.
+  - 1.177M traffic (Feb 2024, SimilarWeb).
+  - At least $247 to list your product here.
+  - Submit [here](https://www.futurepedia.io/submit-tool).
+- [**Top AI Tools**](https://topai.tools/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Paid-blue)
+  ![](https://img.shields.io/badge/AS-39-green)
+  - AI directory.
+  - $39 to list your product.
+  - 1.996M traffic (Feb 2024, SimilarWeb).
+  - Submit [here](https://topai.tools/submit).
+- [**LinkTree**](https://linktr.ee/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-79-green)
+  - Link in bio tool.
+  - Example [PromptSora](https://linktr.ee/soraprompts).
+  - Create an account [here](https://linktr.ee/register/select-plan).
+- [**Unita**](https://unita.co/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-32-green)
+  - Directory for communities.
+  - If your product is community based, or have a community surrounding it. You can list it here.
+  - Facebook group also works.
+  - Add your community [here](https://unita.co/add-community/).
+
+More Coming Soon
 ## 👥 Communities
 Coming Soon
 

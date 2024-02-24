@@ -81,8 +81,84 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
 ## 👤 其他社交媒体
 
 ## 📁 目录
-未完待续
+- [**Crunchbase**](https://www.crunchbase.com/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  - 这是一个可以查到各种公司信息的大宝库，无论是小公司还是大公司，包括他们的融资信息、创始人信息还有行业趋势等等。
+  - 你还可以在上面注册一个组织，把你的网站链接放上去，让更多人知道你。
+  - 示例: [PromptSora](https://www.crunchbase.com/organization/promptsora).
+  - 在[这里](https://www.crunchbase.com/add-new)创建档案.
+- [**Free Stuff Dev**](https://freestuff.dev/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-24-green)
+  - 这是一个给开发者提供免费服务清单的地方。
+  - 如果你的产品有免费的版本，可以在这里列出来。
+  - 可以[这里](https://freestuff.dev/submit)提交你的产品。
+- [**Free For Dev**](https://free-for.dev/#/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-23-green)
+  - 这里有一大堆软件和服务的免费版本，比如SaaS、PaaS、IaaS等。如果你的产品也提供免费版本，不妨在这里列个名。
+  - 提交产品可以通过[这里](https://github.com/ripienaar/free-for-dev/pulls)的pull request。
+- [**Open Source Alternatives To**](https://www.opensourcealternative.to/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-31-green)
+  - 如果你的产品是开源的，这个平台就非常适合你。在这里，你可以把你的产品列出来。
+  - 提交方式在[这里](https://www.opensourcealternative.to/add-project)。
+- [**Starter Story**](https://www.starterstory.com/)
+  ![](https://img.shields.io/badge/Level-Hard-red)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-51-green)
+  - 这个平台专门分享如何成功创业的故事。如果你想让更多人听到你的创业故事，不妨试试看在这里分享。如果他们选中了你的故事，不但能得到一个回链，还能让你的故事发给所有订阅者。
+  - 分享故事可以去[这里](https://www.starterstory.com/share)。
+- [**There's An AI For That**](https://theresanaiforthat.com/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/付费-blue)
+  ![](https://img.shields.io/badge/AS-50-green)
+  - 这是一个带有Do-Follow链接的AI目录。
+  - 月流量4.8M (2月2024， SimilarWeb)。
+  - 提交费用为347美元。
+  - 可以在[这里](https://theresanaiforthat.com/get-featured/#opt_submit)提交。
+- [**LibHunt**](https://www.libhunt.com/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-39-green)
+  - 这个平台上有很多热门的开源项目及其替代品。如果你的工具也是开源的，你可以在这里提交。
+  - 月流量740K (2月2024， SimilarWeb)。
+  - 提交方式在[这里](https://www.libhunt.com/repo/submit)。
+- [**Futurepedia**](https://www.futurepedia.io/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/付费-blue)
+  ![](https://img.shields.io/badge/AS-42-green)
+  - 这也是一个带有Do-Follow链接的AI目录。
+  - 月流量1.177M (2月2024， SimilarWeb)。
+  - 列出你的产品至少需要247美元。
+  - 可以在[这里](https://www.futurepedia.io/submit-tool)提交。
+- [**Top AI Tools**](https://topai.tools/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/付费-blue)
+  ![](https://img.shields.io/badge/AS-39-green)
+  - AI目录。
+  - 列出你的产品需要39美元。
+  - 月流量1.996M (2月2024， SimilarWeb)。
+  - 提交方式在[这里](https://topai.tools/submit)。
+- [**LinkTree**](https://linktr.ee/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-79-green)
+  - 这是一个链接管理工具。
+  - 示例: [PromptSora](https://linktr.ee/soraprompts).
+  - 你可以在[这里]((https://linktr.ee/register/select-plan))创建一个账号。
+- [**Unita**](https://unita.co/)
+  ![](https://img.shields.io/badge/Level-简单-green)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-32-green)
+  - 这是一个社区目录。如果你的产品基于社区，或者包括了个社区，你可以在这里列出来。Facebook Group也可以。
+  - 添加你的社区可以去[这里](https://unita.co/add-community/)。
 
+未完待续
 ## 👥 社区
 未完待续
 
