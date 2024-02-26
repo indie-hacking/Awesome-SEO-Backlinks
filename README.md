@@ -154,6 +154,30 @@ Coming Soon
   - If your product is community based, or have a community surrounding it. You can list it here.
   - Facebook group also works.
   - Add your community [here](https://unita.co/add-community/).
+- [**Bento**](https://bento.me/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-35-green)
+  - LinkTree alternative.
+  - Create an account [here](http://bento.me/signup).
+- [**Read.cv**](https://read.cv/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-35-green)
+  - Platform for beautiful profiles.
+  - Create an account [here](https://read.cv/).
+- [**SideProjectors**](https://www.sideprojectors.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-31-green)
+  - Marketplace to sell and buy interesting side projects.
+  - You can submit your product [here](https://www.sideprojectors.com/auth/login?msg=1).
+- [**Landingfolio**](https://www.landingfolio.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-34-green)
+  - Directory for web design inspirations.
+  - If your website have great design, submit your product [here](https://www.landingfolio.com/submit).
 
 More Coming Soon
 ## 👥 Communities

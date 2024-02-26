@@ -157,7 +157,30 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
   ![](https://img.shields.io/badge/AS-32-green)
   - 这是一个社区目录。如果你的产品基于社区，或者包括了个社区，你可以在这里列出来。Facebook Group也可以。
   - 添加你的社区可以去[这里](https://unita.co/add-community/)。
-
+- [**Bento**](https://bento.me/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-35-green)
+  - LinkTree的替代品。
+  - 在[这里](http://bento.me/signup)创建账户。
+- [**Read.cv**](https://read.cv/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-35-green)
+  - 打造精美个人简历的平台。
+  - 在[这里](https://read.cv/)创建账户。
+- [**SideProjectors**](https://www.sideprojectors.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-31-green)
+  - 一个出售和购买有趣副业项目的市场。
+  - 在[这里](https://www.sideprojectors.com/auth/login?msg=1)提交你的产品。
+- [**Landingfolio**](https://www.landingfolio.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-34-green)
+  - 网页设计灵感目录。
+  - 如果你的网站设计出色，在[这里](https://www.landingfolio.com/submit)提交你的产品。
 未完待续
 ## 👥 社区
 未完待续
