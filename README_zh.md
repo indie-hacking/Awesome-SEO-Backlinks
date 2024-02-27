@@ -182,7 +182,7 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
   - 网页设计灵感目录。
   - 如果你的网站设计出色，在[这里](https://www.landingfolio.com/submit)提交你的产品。
 - [**Tiny Alternatives**](https://tinyalternatives.com/)
-  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Level-简单-green)
   ![](https://img.shields.io/badge/付费-blue)
   ![](https://img.shields.io/badge/AS-6-green)
   - 这是个app、网站和技术产品目录。
