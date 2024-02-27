@@ -178,6 +178,13 @@ Coming Soon
   ![](https://img.shields.io/badge/AS-34-green)
   - Directory for web design inspirations.
   - If your website have great design, submit your product [here](https://www.landingfolio.com/submit).
+- [**Tiny Alternatives**](https://tinyalternatives.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-6-green)
+  - Directory of mobile apps, websites, and technology products.
+  - Posting is free. $25 to get featured on front page. $35 to get featured in their newsletter.
+  - Submit [here](https://www.tinyalternatives.com/submit).
 
 More Coming Soon
 ## 👥 Communities
