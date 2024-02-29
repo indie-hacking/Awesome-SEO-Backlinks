@@ -199,6 +199,15 @@ Awesome SEO Backlinks 整理了一系列按类别、强度和获取难度划分�
   - 超过2000信誉的用户可以在其个人资料中加一个Do-Follow链接。
   - 示例：[个人资料](https://stackoverflow.com/users/2574407/thorkil-v%c3%a6rge)。
   - 在[这里](https://stackoverflow.com/)注册。
+- [**Dev.to**](https://dev.to/)
+  ![](https://img.shields.io/badge/Level-中等-yellow)
+  ![](https://img.shields.io/badge/免费-blue)
+  ![](https://img.shields.io/badge/AS-59-green)
+  - 另外一个开发者社区。
+  - 个人资料和评论中的链接都是no-follow。
+  - 文章里的链接是do-follow。
+  - 在[这里](https://dev.to/enter)注册。
+
 
 未完待续
 

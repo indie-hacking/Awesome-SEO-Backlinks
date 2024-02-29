@@ -196,7 +196,14 @@ More Coming Soon
   - User with >2000 reputation can embed a do-follow link on their profile ([source](https://meta.stackexchange.com/questions/55842/the-nofollow-attribute-is-set-in-user-profile-website-link-why/55843#55843)).
   - Example: [Profile](https://stackoverflow.com/users/2574407/thorkil-v%c3%a6rge).
   - Register [here](https://stackoverflow.com/).
-
+- [**Dev.to**](https://dev.to/)
+  ![](https://img.shields.io/badge/Level-medium-yellow)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-59-green)
+  - Another community for developers.
+  - Links in profiles and comments are no-follow.
+  - Links in articles are do-follow.
+  - Register [here](https://dev.to/enter).
 Coming Soon
 
 ## 🖋️ Writing Platforms
