@@ -185,6 +185,15 @@ Coming Soon
   - Directory of mobile apps, websites, and technology products.
   - Posting is free. $25 to get featured on front page. $35 to get featured in their newsletter.
   - Submit [here](https://www.tinyalternatives.com/submit).
+- [**Hub de ferramentas online gratuitas**](https://www.geradordesenhas.online/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-6-green)
+  - Mais de 39 ferramentas essenciais para seu dia a dia - 100% gratuitas e seguras
+  - Explore nossa coleção de mais de 39 ferramentas gratuitas e úteis para seu dia a dia. Todas as ferramentas funcionam diretamente no seu navegador, sem necessidade de instalação.
+  - [Crie senhas ultra seguras e únicas para suas contas online](https://www.geradordesenhas.online/gerador-senhas/).
+  - [Simule investimentos e calcule juros sobre juros com precisão](https://www.geradordesenhas.online/calculadora-juros-compostos/).
+  - [Crie códigos QR instantâneos para URLs, texto, contatos e WiFi](https://www.geradordesenhas.online/gerador-qr-code/).
 
 More Coming Soon
 ## 👥 Communities
