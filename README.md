@@ -216,7 +216,13 @@ Coming Soon
 Coming Soon
 
 ## 🗂 Miscellaneous
-Coming Soon
+
+- [**GEOScore**](https://geoscoreai.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  - Free AI search visibility scanner that checks 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness for AI search engines (ChatGPT, Perplexity, Gemini).
+  - Also offers free tools: [AI Robots.txt Generator](https://geoscoreai.com/tools/robots-txt-generator) and [AI Crawler Access Checker](https://geoscoreai.com/tools/ai-crawler-checker).
+  - Scan your site [here](https://geoscoreai.com/).
 
 ### ✨ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=indie-hacking/Awesome-SEO-Backlinks&type=Date)](https://star-history.com/#indie-hacking/Awesome-SEO-Backlinks&Date)
