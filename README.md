@@ -207,7 +207,24 @@ More Coming Soon
 Coming Soon
 
 ## 🖋️ Writing Platforms
-Coming Soon
+
+- **[Telegraph](https://telegra.ph/)**
+  ![](https://img.shields.io/badge/DA-79-brightgreen)
+  ![](https://img.shields.io/badge/Level-easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  - Anonymous publishing platform by Telegram. No account required — just start writing.
+  - Posts are indexed by Google quickly due to Telegraph's high domain authority (DA 79).
+  - Links in articles are do-follow.
+  - Use at [telegra.ph](https://telegra.ph).
+
+- **[GitHub Gist](https://gist.github.com/)**
+  ![](https://img.shields.io/badge/DA-95-brightgreen)
+  ![](https://img.shields.io/badge/Level-easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  - Code snippets and notes hosted by GitHub. Extremely high domain authority (DA 95).
+  - Gists appear in Google search results and are crawled quickly.
+  - Requires a free GitHub account.
+  - Use at [gist.github.com](https://gist.github.com).
 
 ## 🧑‍💼 Job Boards
 Coming Soon
