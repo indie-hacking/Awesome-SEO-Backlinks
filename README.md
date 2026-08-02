@@ -70,6 +70,7 @@ Foundational backlinks are the bedrock of your website's online presence, signal
 
 ## 👤 Other Social Media
 Coming Soon
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ## 📁 Directories
 
