@@ -185,6 +185,12 @@ Coming Soon
   - Directory of mobile apps, websites, and technology products.
   - Posting is free. $25 to get featured on front page. $35 to get featured in their newsletter.
   - Submit [here](https://www.tinyalternatives.com/submit).
+- [**GEOKit**](https://geokit.site/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  - All-in-one free Generative Engine Optimization (GEO) & AI SEO toolkit.
+  - Audit websites for AI search engines, generate `llms.txt`, custom AI `robots.txt`, and JSON-LD schemas.
+  - Free and runs directly in the browser with no signup required.
 
 More Coming Soon
 ## 👥 Communities
