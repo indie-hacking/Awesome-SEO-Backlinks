@@ -204,7 +204,14 @@ More Coming Soon
   - Links in profiles and comments are no-follow.
   - Links in articles are do-follow.
   - Register [here](https://dev.to/enter).
-Coming Soon
+- [**NPM & PyPI Package Registries**](https://www.npmjs.com/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/AS-94-green)
+  - Official global open-source developer package registries (NPM DA 94, PyPI DA 93).
+  - Publishing a lightweight utility or CLI package creates an instant, permanent, high-authority backlink directly from the project homepage and repository metadata.
+  - Example: [A11yKit CLI on NPM](https://www.npmjs.com/package/a11ykit-cli) and [A11yKit CLI on PyPI](https://pypi.org/project/a11ykit-cli/).
+  - Publish via `npm publish` or `twine upload`.
 
 ## 🖋️ Writing Platforms
 Coming Soon
