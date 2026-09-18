@@ -100,6 +100,13 @@ Coming Soon
   ![](https://img.shields.io/badge/AS-31-green)
   - If your product is open source, you can list your product here.
   - Submit [here](https://www.opensourcealternative.to/add-project).
+- [**SaaS Launch Directories Explorer**](https://themerchcog.github.io/saas-launch-directories-2026/)
+  ![](https://img.shields.io/badge/Level-Easy-green)
+  ![](https://img.shields.io/badge/Free-blue)
+  ![](https://img.shields.io/badge/Open%20Source-purple)
+  - Interactive searchable database and backlink audit toolkit covering 100+ verified SaaS & AI directories with DoFollow audit and character limits.
+  - Helps founders quickly find platforms offering DoFollow backlinks and free startup listings.
+  - Explore the directory [here](https://themerchcog.github.io/saas-launch-directories-2026/) or check the [GitHub repo](https://github.com/TheMerchCog/saas-launch-directories-2026).
 - [**Starter Story**](https://www.starterstory.com/)
   ![](https://img.shields.io/badge/Level-Hard-red)
   ![](https://img.shields.io/badge/Free-blue)
