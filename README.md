@@ -197,6 +197,7 @@ More Coming Soon
   - Example: [Profile](https://stackoverflow.com/users/2574407/thorkil-v%c3%a6rge).
   - Register [here](https://stackoverflow.com/).
 - [**Dev.to**](https://dev.to/)
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
   ![](https://img.shields.io/badge/Level-medium-yellow)
   ![](https://img.shields.io/badge/Free-blue)
   ![](https://img.shields.io/badge/AS-59-green)
