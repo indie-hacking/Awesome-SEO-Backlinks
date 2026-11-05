@@ -94,6 +94,7 @@ Coming Soon
   - List of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
   - If your product offers a free tier, list it here.
   - Submit your product with a pull request [here](https://github.com/ripienaar/free-for-dev/pulls).
+- [**MeetNewAI**](https://meetnewai.com/) - Free bilingual directory of new AI tools, AI games, and MCP servers organized by job-to-be-done.
 - [**Open Source Alternatives To**](https://www.opensourcealternative.to/)
   ![](https://img.shields.io/badge/Level-Easy-green)
   ![](https://img.shields.io/badge/Free-blue)
