@@ -216,6 +216,8 @@ Coming Soon
 Coming Soon
 
 ## 🗂 Miscellaneous
+
+- [**No Stairs Please**](https://nostairsplease.com/mcp) - Free remote MCP server and live-music venue directory across the US and Canada.
 Coming Soon
 
 ### ✨ Star History
